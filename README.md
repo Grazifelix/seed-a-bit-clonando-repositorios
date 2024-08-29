@@ -3,3 +3,5 @@
 Alterações remotas
 
 testando fetch
+
+realizer merge
