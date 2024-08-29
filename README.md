@@ -2,6 +2,4 @@
 
 Alterações remotas
 
-testando fetch
-
-realizer merge
+REALIZAR MERGE!!
