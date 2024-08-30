@@ -1,3 +1,4 @@
 # seed-a-bit-clonando-repositorios
 
-Altereções
+Alterações
+A abelha vai até a colmeia.
